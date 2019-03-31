@@ -1,0 +1,2 @@
+# LearnParallelInPython
+根据《Python并行编程手册》一书编写的Python代码编程的学习代码
